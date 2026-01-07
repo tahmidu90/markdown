@@ -3,6 +3,14 @@
 Inspired by Avatar: The Last Airbender
 **>** symbol represents having greater damage done onto that bending and less damage done from that bending
 Water > Fire > Air > Earth > Water > Fire
+
+# Basic Attributes
+Health
+Shield
+Dodge Rate
+Accuracy
+Damage
+
 # Class Design
 **Basic Attacks**: High chance of attack not hitting, but when directly getting hit, does a lot of damage
 **Special Attacks**: High chance of attack hitting, but medium damage
@@ -25,17 +33,17 @@ Water > Fire > Air > Earth > Water > Fire
 
 ### Earthbender
 
-- **Status Effect**: `Fortified` 90% reduced damage for 3 turns, but cannot attack
+- **Status Effect**: `Fortified` 90% reduced damage but cannot attack unless also Earthbender
 - **Status Effect**: `Dizzy` greatly reduces affectors' accuracy
 -  **Basic Attack**: `Rock Throw` Inaccurate, medium damage, gives **Dizzy**
-- **Special Attack**: `Earthquake` AOE, high damage 
-- **Support**: `Water Healing` gradually healing of target's health, at the end removes any negative status effects.
+- **Special Attack**: `Earthquake` AOE 70% accuracy, lo damage, gives **Dizzy** 
+- **Support**: `Rock Armor` gives **Fortified** to one person
 
 ### Airbender
-
-- **Status Effect**: `Burn` tick damage on target for every 
--  **Basic Attack**: `Water Slash` increasees frost. Does 5 (decreases accuracy and stuns target for one term) [Negated by Firewall]
-- **Special Attack**: `Tsunami` AOE attack, that does a high buildup of frost. Does 25 damage.
+Overall higher dodge rates
+- **Status Effect**: `Light as a Feather` high dodge rates 
+-  **Basic Attack**: `Air Blast` lo damage, hi accuracy
+- **Special Attack**: `Big Gust of Wind` removes opp. healing, all burning, opp. Fortified, and `Light as a Feather` to teammates
 - **Support**: `Water Healing` gradually healing of target's health, at the end removes any negative status effects.
 
   ### Lord of Flame
