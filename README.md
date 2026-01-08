@@ -2,7 +2,7 @@
 
 - Inspired by Avatar: The Last Airbender
 - **>** symbol represents having greater damage done onto that bending and less damage done from that bending
-Water > Fire > Air > Earth > Water > Fire
+- Water > Fire > Air > Earth > Water > Fire
 
 # Basic Attributes
 Health
