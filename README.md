@@ -26,7 +26,7 @@ Damage
 
 ### Firebender
 
--- **Status Effect**: `Burn` tick damage on target for 3 turns.
+- **Status Effect**: `Burn` tick damage on target for 3 turns.
 -  **Basic Attack**: `Fireball` applies damage and burn on a target, but also has a small chance to be an AOE. 
 - **Special Attack**: `Blue Flame` can't move for 2 turns, 60% accuracy and high damage for 3 turns. 
 - **Support**: `Flame Wall` Applies a wall of fire in front of opponents, decreasing their and team's accuracy for 2 turns
