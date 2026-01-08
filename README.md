@@ -12,9 +12,9 @@ Accuracy
 Damage
 
 # Class Design
-**Basic Attacks**: High chance of attack not hitting, but when directly getting hit, does a lot of damage
-**Special Attacks**: High chance of attack hitting, but medium damage
-**Support**: Little to no damage done onto anyone, helps teammates
+- **Basic Attacks**: High chance of attack not hitting, but when directly getting hit, does a lot of damage
+- **Special Attacks**: High chance of attack hitting, but medium damage
+- **Support**: Little to no damage done onto anyone, helps teammates
 
 ### Waterbender
 
