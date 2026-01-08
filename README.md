@@ -51,4 +51,4 @@ Overall higher dodge rates
 - **Status Effect**: `Burn` tick damage on target for every 
 -  **Basic Attack**: `Flame Spray` Fires a spray of fire on target, high accuracy and applies burn.
 - **Special Attack**: `Blue Flame` Charge attack that leaves the boss vulnerable for 1 term before unleashing a high damaging attack on all opponents.
-- **Support**: `Flame Giveth Strength` Lord of Flame imbues himself with the  .
+- **Support**: `Flame Giveth Strength` Lord of Flame imbues himself with the Forsaken Flame, granting him an attack buff that increases damage for 4 turns.
